@@ -1,0 +1,98 @@
+nav {
+    background-color: #313132;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.nav-link {
+    color: #D6D6D6;
+}
+.nav-link:hover {
+    color: #f0ebeb;
+}
+.bi-search, .bi-bag {
+    color: #D6D6D6;
+    align-self: center;
+    padding: 0rem 1rem;
+    transform:translateY(-2px)
+}
+.apple-logo {
+    color: #D6D6D6;
+}
+.unicef {
+    background-color: #F5F5F7;
+    height: 8vh;
+    display: flex;
+    gap: 1rem;
+}
+.donate {
+    text-decoration: none;
+}
+.donate:hover {
+    text-decoration: underline;
+}
+.bi-arrow-up-right {
+    color:#0D99FB;
+    font-size: small;
+    transform:translateX(-15px);
+}
+.phone-13 {
+    margin: 3rem auto;
+    text-align: center;
+}
+.cta {
+    margin: 0rem 0.5rem;
+}
+.subheading {
+    font-weight: light;
+    font-size:large
+}
+.phone-13-img {
+    display: block;
+    margin: auto;
+}
+.phone-holder {
+    margin: 1rem 0;
+}
+.ipad-air {
+    background-color: black;
+    color: white;
+    text-align:start;
+    height:80vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    padding: 10rem;
+}
+.product {
+    padding: 3rem;
+    transform: scale(90%);
+    margin: 0;
+}
+.card-body {
+    text-align: center;
+}
+.cta-card {
+    margin: 1rem 0.5rem -1rem 0.5rem;
+}
+.product-cards {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+.diversity-card {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+}
+.diversity {
+    text-align: center;
+}
+
+.card-img-overlay {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+}
